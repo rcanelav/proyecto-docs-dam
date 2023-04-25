@@ -55,8 +55,8 @@ _This instructions set will let you be able to have a HUNKY DORY CODE documentat
 
 ## Related links
 ---
-* [HDC Frontend](https://github.com/rcanelav/Hunky-Dory-Code-Frontend) - Hunky Dory Code Frontend App
-* [HDC Backend](https://github.com/rcanelav/Hunky-Dory-Code-Backend) - Hunky Dory Code RESTful API
+* [HDC Frontend](https://github.com/rcanelav/proyecto-frontend-dam) - Hunky Dory Code Frontend App
+* [HDC Backend](https://github.com/rcanelav/proyecto-backend-dam) - Hunky Dory Code RESTful API
 * [HDC API docs](https://documenter.getpostman.com/view/11049007/UVRGEPag) - Postman API Docs
 * [Mobile Wireframe](https://www.canva.com/design/DAE8j0Sj8-w/8aSldd_rtR6_juoM6_wGjw/view?utm_content=DAE8j0Sj8-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#8) - online view
 * [Desktop Wireframe](https://www.canva.com/design/DAE8kcPqWGg/37VHBw4-6ZIdTRghsDZUcg/view?utm_content=DAE8kcPqWGg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) - online view
@@ -75,7 +75,7 @@ _This instructions set will let you be able to have a HUNKY DORY CODE documentat
 
 * **Ramón Canela** - *Requirement analysis and functional requirements Documentation, DDBB diagrams, modeling, UX/UI design, implementation and deployment* - [rcanelav](https://www.linkedin.com/in/rcanelav/)
 
-Access to [contributors](https://github.com/rcanelav/Hunky-Dory-Code-Docs/graphs/contributors) list who has participating in this project.
+Access to [contributors](https://github.com/rcanelav/proyecto-docs-dam/graphs/contributors) list who has participating in this project.
 <p align="right">(<a href="#top">back to top ⬆</a>)</p>
 </br>
 
