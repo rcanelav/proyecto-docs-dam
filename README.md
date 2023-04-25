@@ -1,11 +1,11 @@
 <div id="top"></div>
 <div align="center">
-    <img src="https://img.shields.io/github/issues/rcanelav/Hunky-Dory-Code-Docs" />
-    <img src="https://img.shields.io/github/forks/rcanelav/Hunky-Dory-Code-Docs" />
-    <img src="https://img.shields.io/github/stars/rcanelav/Hunky-Dory-Code-Docs" />
-    <img src="https://img.shields.io/github/license/rcanelav/Hunky-Dory-Code-Docs" />
-    <img src="https://img.shields.io/github/commit-activity/m/rcanelav/Hunky-Dory-Code-Docs" />
-    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Frcanelav%2FHunky-Dory-Code-Docs" />
+    <img src="https://img.shields.io/github/issues/rcanelav/proyecto-docs-dam" />
+    <img src="https://img.shields.io/github/forks/rcanelav/proyecto-docs-dam" />
+    <img src="https://img.shields.io/github/stars/rcanelav/proyecto-docs-dam" />
+    <img src="https://img.shields.io/github/license/rcanelav/proyecto-docs-dam" />
+    <img src="https://img.shields.io/github/commit-activity/m/rcanelav/proyecto-docs-dam" />
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Frcanelav%2Fproyecto-docs-dam" />
 </div>
 
 </br>
