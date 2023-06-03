@@ -107,10 +107,10 @@ INSERT INTO users VALUES
 (7,'Iker','Vyko','vyker@test.com','123456',NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,'STUDENT',NULL),
 (8,'Yisus','de Deus','ohlord@test.com','123456',NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,'STUDENT',NULL),
 (9,'Ramon','Canela','ramon@test.com','123456',NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,'EXPERT',NULL),
-(10,'Francisco','Cobelo','fracisco@test.com','123456',NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,'EXPERT',NULL),
+(10,'Francisco','Sovelo','fracisco@test.com','123456',NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,'EXPERT',NULL),
 (11,'Cristina','Ruiz','cris@test.com','123456',NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,'EXPERT',NULL),
 (12,'Paola','A','paola@test.com','123456',NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,'EXPERT',NULL),
-(30,'Kiko','Cobelo','francisco.cobelo@gmail.com','$2a$12$/r3grIvX4.Nox3ZpwKm41e9VGQ4BHCA5DE8GAsuUWvzNHC0uM8OsW','https://graph.facebook.com/10224614139448241/picture',NULL,1,NULL,'pW0WrX9u2n60LfsPmJnXDEtLem4031N5X66OW6Y96Axljq9wfUNI4hbVbNEVZu10','2021-12-15',NULL,NULL,'STUDENT','2021-12-15 12:54:19'),
+(30,'Kiko','Sovelo','francisco.sovelo@gmail.com','$2a$12$/r3grIvX4.Nox3ZpwKm41e9VGQ4BHCA5DE8GAsuUWvzNHC0uM8OsW','https://graph.facebook.com/10224614139448241/picture',NULL,1,NULL,'pW0WrX9u2n60LfsPmJnXDEtLem4031N5X66OW6Y96Axljq9wfUNI4hbVbNEVZu10','2021-12-15',NULL,NULL,'STUDENT','2021-12-15 12:54:19'),
 (40,'Ramón','Canela','rcanelav@gmail.com','$2a$12$1kFyNi88juAsL3g.GhpSeeHoiILolzGfpfMBzyAidbsH2TJQ227W.','https://res.cloudinary.com/rayci/image/upload/v1640100795/islpfy3lgal6dsgytrfe.jpg',NULL,0,NULL,'5zN9jvxe8pKr0PLn7J2xzsEIyousnANZrPB9GhTPvLilAOveINmCr0UodJ7Eeu7O','2021-12-21',NULL,NULL,'EXPERT','2021-12-21 17:12:00');
 
 
